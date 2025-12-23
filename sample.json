@@ -1,0 +1,793 @@
+{
+    "data": {
+      "batches": [
+        {
+          "batch_id": 3,
+          "batch_name": "Admin",
+          "users": [
+            {
+              "courses": [
+                {
+                  "certificate_id": 1,
+                  "completion_status": "Completed",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-21T05:13:02.579876",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-21T05:13:03.256234",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 7,
+                  "course_name": "Cypress for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-21T05:13:04.641339",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 4,
+                  "course_name": "SQL Basics for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-21T05:13:03.596903",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 5,
+                  "course_name": "Graph DataBase for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-21T05:13:03.943118",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 6,
+                  "course_name": "Computational Thinking for Middle Schoolers",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-21T05:13:04.291663",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-21T05:13:02.918199",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 9,
+                  "course_name": "Enterprise Resource Planning (ERP)",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-21T05:13:05.336372",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 8,
+                  "course_name": "Good and Service Tax (GST)",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-21T05:13:04.986594",
+                  "validity": 30
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 10,
+                  "course_name": "Python Intermediate",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-21T05:13:05.893865",
+                  "validity": 30
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "user1"
+            }
+          ]
+        },
+        {
+          "batch_id": 1,
+          "batch_name": "testing",
+          "users": [
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Maddy"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Mareeswari"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": null,
+              "username": "sundaresan"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "SUDHARSAN D S"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Solai "
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": 1,
+                  "completion_status": "Completed",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 2,
+                  "completion_status": "Completed",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 1,
+                  "completion_status": "Completed",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 1,
+                  "completion_status": "Completed",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Solaikumar"
+            }
+          ]
+        },
+        {
+          "batch_id": 2,
+          "batch_name": "testing1",
+          "users": [
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Demo"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "DJJK"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Dinesh N"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Maddy123"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Shellie Melton"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Madsan"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "FFF"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "In Progress",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Demo0"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "JJJ"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Sudharsan D S"
+            },
+            {
+              "courses": [
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 3,
+                  "completion_status": "Completed",
+                  "course_id": 3,
+                  "course_name": "Web Scraping with Python Selenium",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 1,
+                  "completion_status": "Completed",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 1,
+                  "completion_status": "Completed",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": 1,
+                  "completion_status": "Completed",
+                  "course_id": 1,
+                  "course_name": "Python for Beginners",
+                  "enrollment_status": "Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                },
+                {
+                  "certificate_id": null,
+                  "completion_status": "Not Started",
+                  "course_id": 2,
+                  "course_name": "Cloud Computing For Beginners",
+                  "enrollment_status": "Not Enrolled",
+                  "updated_date": "2025-05-20T10:22:25.128602",
+                  "validity": 2
+                }
+              ],
+              "initial_assessment": "completed",
+              "username": "Arun priyaraaj P V"
+            }
+          ]
+        }
+      ],
+      "total_batches": 4,
+      "total_courses": 10,
+      "total_users": 18
+    },
+    "status": "success"
+  }
